@@ -1,2 +1,2 @@
 # Bikcraft
-Projeto de site para venda de biciletas
+Projeto de site para venda de bicletas
