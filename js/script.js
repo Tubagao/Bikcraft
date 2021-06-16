@@ -12,3 +12,8 @@ nav: true
 })
 
 }
+
+
+if(window.SimpleAnime) {
+ new SimpleAnime();
+}
