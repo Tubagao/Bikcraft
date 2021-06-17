@@ -98,7 +98,7 @@ border-color: #fff;
 margin-top: 0px;
 padding-top: 40px;
 background: url("../img/bg-smart.jpg") no-repeat center;
-background: cover;
+background-size: cover;
 }
 
 .introducao h1 {
@@ -179,5 +179,6 @@ padding-right: 0px;}
 .contato_form{
 padding-right: 0px;
 margin-bottom: 40px;
+}
 
-/*Final do estilo de Smartphones*/
+}/*Final do estilo de Smartphones*/
